@@ -28,13 +28,23 @@ Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at
 :-------------------------:|:-------------------------:
 <img src="graph_image/fig2.png" width ="100%">  |  <img src="graph_image/fig3.png" width ="100%"> 
 
-<p> Figure 4 plots Battery Age vs the Total Flight Time he drones to see at what voltage drop and time a drone failed or succeeded.</p>
+<p> 
+  Figure 4 plots Battery Age vs the Total Flight Time he drones to see at what voltage drop and time a drone failed or succeeded. 
+</p>
 
-<img src="graph_image/fig4.png">
+<p align="center">
+  <img width="600" src="graph_image/fig4.png">
+</p>
 
-<p>Figure 5 plots Battery Age, Battery Voltage Drop, and Total Flight Time to see at what voltage drop, and batterry age a drone faield or succeeded.</p>
 
-<img src="graph_image/fig5.png">
+<p> 
+  Figure 5 plots Battery Age, Battery Voltage Drop, and Total Flight Time to see at what voltage drop, and batterry age a drone faield or succeeded. 
+</p>
+
+<p align="center">
+  <img width="800" src="graph_image/fig5.png">
+</p>
+
 
 ## Built With
 Project is Created With: 
