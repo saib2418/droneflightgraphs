@@ -18,7 +18,7 @@ Figure 1 plots failed flights [orange color] vs successful flights [blue color] 
 
   Bar Graph                |  Table
 :-------------------------:|:-------------------------:
-![](graph_image/fig1.png)  |  ![](graph_image/table.png)
+![](graph_image/fig1.png)  |  ![](graph_image/tables.png)
 
 <p>
 Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at what voltage drop and time a drone failed or succeeded. Figure 3 zooms in on the time stamps where the most failed flights occured.
