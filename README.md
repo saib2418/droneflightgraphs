@@ -13,7 +13,7 @@ Raw Data produced by drone flights converted into various graphs to optimize fea
 After conducting many drone flight tests, the data of what battery was used, battery, tempearture, the voltage drop, how long the drone was flying, and weather the drone succeded or failed was recorded in the excel sheet titles "Battery Aging." 
 
 Figure 1 plots failed flights [orange color] vs successful flights [blue color] over 30 second intervals, while the table quantifies this data. 
-{insert both images} 
+![](drone_images/fig1.png)
 
 Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at what voltage drop and time a drone failed or succeeded. 
 
