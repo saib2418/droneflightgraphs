@@ -42,7 +42,7 @@ Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at
 </p>
 
 <p align="center">
-  <img width="800" src="graph_image/fig5.png">
+  <img width="600" src="graph_image/fig5.png">
 </p>
 
 
