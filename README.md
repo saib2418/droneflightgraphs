@@ -16,7 +16,7 @@ After conducting many drone flight tests, the data of what battery was used, bat
 Figure 1 plots failed flights [orange color] vs successful flights [blue color] over 30 second intervals, while the table quantifies this data. 
 </p>
 
-  Bar Graph                |  Table
+Figure 1                |  Table
 :-------------------------:|:-------------------------:
 <img src="graph_image/fig1.png" width ="100%">  |  <img src="graph_image/tables.png" width ="100%">  
 
@@ -24,7 +24,7 @@ Figure 1 plots failed flights [orange color] vs successful flights [blue color] 
 Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at what voltage drop and time a drone failed or succeeded. Figure 3 zooms in on the time stamps where the most failed flights occured.
 </p>
 
-  Scatter Plot             |  Zoomed Scatter Plot
+  Figure 2                 |  Figure 3
 :-------------------------:|:-------------------------:
 <img src="graph_image/fig2.png" width ="100%">  |  <img src="graph_image/fig3.png" width ="100%"> 
 
