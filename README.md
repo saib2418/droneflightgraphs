@@ -7,31 +7,34 @@ Raw Data produced by drone flights converted into various graphs to optimize fea
 * [Setup] (#setup)
 * [Usage] (#usage)
 * [License] (#license)
-* [Contect] (#contact)
+* [Contact] (#contact)
 
 ## About This Project
 After conducting many drone flight tests, the data of what battery was used, battery, tempearture, the voltage drop, how long the drone was flying, and weather the drone succeded or failed was recorded in the excel sheet titles "Battery Aging." 
-
+<p>
 Figure 1 plots failed flights [orange color] vs successful flights [blue color] over 30 second intervals, while the table quantifies this data. 
+</p>
 
-<img src="graph_images/fig1.png" width = "600">
-<img src="graph_images/table.png" width = "600">
+<img align = "left" width = "480" src="graph_images/fig1.png">
+<img align = "right" width = "430" src="graph_images/table.png">
 
+<p>
 Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at what voltage drop and time a drone failed or succeeded. 
+</p>
 
-<img src="graph_images/fig2.png" width = "600">
+<img align = "left" width = "450" src="graph_images/fig2.png">
 
+<p>
 Figure 3 zooms in on the time stamps where the most failed flights occured.
+</p>
 
-<img src="graph_images/fig3.png" width = "600">
+<img align = "right"  width = "450" src="graph_images/fig3.png">
 
-{I created another excel sheet from "Battery Aging" called "Test.xlsx" to simplify the reading data process.}
-
-Figure 4 plots Battery Age vs the Total Flight Time he drones to see at what voltage drop and time a drone failed or succeeded. 
+<p> Figure 4 plots Battery Age vs the Total Flight Time he drones to see at what voltage drop and time a drone failed or succeeded.</p>
 
 <img src="graph_images/fig4.png" width = "600">
 
-Figure 5 plots Battery Age, Battery Voltage Drop, and Total Flight Time to see at what voltage drop, and batterry age a drone faield or succeeded. 
+<p>Figure 5 plots Battery Age, Battery Voltage Drop, and Total Flight Time to see at what voltage drop, and batterry age a drone faield or succeeded.</p>
 
 <img src="graph_images/fig5.png" width = "600">
 
