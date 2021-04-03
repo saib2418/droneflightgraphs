@@ -31,8 +31,8 @@ Raw Data produced by drone flights converted into various graphs to optimize fea
   </p>
   
   <div class="container">
-    <img src="graph_images/fig1.png" alt="graph 1">
-    <img src="graph_images/table.png" alt="graph 1 info">
+    <img src="graph_image/fig1.png" alt="graph 1">
+    <img src="graph_image/table.png" alt="graph 1 info">
   </div>
   
   <p>
@@ -40,7 +40,7 @@ Raw Data produced by drone flights converted into various graphs to optimize fea
   </p>
   
   <div class="container">
-    <img src="graph_images/fig2.png" alt="graph 2">
+    <img src="graph_image/fig2.png" alt="graph 2">
   </div>
   
   <p>
@@ -48,7 +48,7 @@ Raw Data produced by drone flights converted into various graphs to optimize fea
   </p>
   
   <div class="container">
-    <img src="graph_images/fig3.png" alt="graph 3">
+    <img src="graph_image/fig3.png" alt="graph 3">
   </div>
 </div>
 
