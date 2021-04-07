@@ -47,7 +47,7 @@ Figure 2 plots Battery Voltage Drop vs Total Flight Time of the drones to see at
 
 
 
-##SetUp
+## SetUp
 <p>
 To use this project, you will need to run it on Python3, so make sure you're system is updated accordingly. 
 In addition, you will be needing the following libraries, and
@@ -75,8 +75,8 @@ Project is Created With:
 * MatPlotLib
 * Plotly
 
-##License
+## License
 All files and software belong to Vimaan Robotics Inc. 
 
-##Author
+## Author
 Sai Bharathula :/
