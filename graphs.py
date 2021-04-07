@@ -17,7 +17,7 @@ def bar_graph():
     """
     result = {}
     # read excel file where all the data related to drone flights are stored
-    df = pd.read_excel("Battery_Aging.xlsx")
+    df = pd.read_excel("inputFiles/Battery_Aging.xlsx")
     # read the column of total flight times
     times = (df["Total flight time(s)"])
 
@@ -89,7 +89,7 @@ def scatter_plot():
     of drone flights are plotted against battery voltage drop variable
     """
     g = plt.figure(2)
-    df = pd.read_excel("Battery_Aging.xlsx")
+    df = pd.read_excel("inputFiles/Battery_Aging.xlsx")
     x = df['Total flight time(s)']
     y = df['Voltage Drop']
     plt.xlabel("Total Flight Time(s)")
@@ -113,7 +113,7 @@ def detailed_scatter_plot():
     battery voltage drops and times are the flights failing
     """
     z = plt.figure(3)
-    df = pd.read_excel("test.xlsx")
+    df = pd.read_excel("inputFiles/test.xlsx")
     x = df['Total flight time(s)']
     y = df['Voltage Drop']
     plt.xlabel("Total Flight Time(s)")
@@ -136,7 +136,7 @@ def battery_age_scatterplot():
     of drone flights are plotted against battery age.
     """
     a = plt.figure(4)
-    df = pd.read_excel("age.xlsx")
+    df = pd.read_excel("inputFiles/age.xlsx")
     x = df['Total flight time(s)']
     y = df['Total Flight Time (m)']
     plt.xlabel("Flight Time")
@@ -158,7 +158,7 @@ def threedee_plot():
        """
     b = plt.figure(5)
     ax = plt.axes(projection='3d')
-    df = pd.read_excel("threedee.xlsx")
+    df = pd.read_excel("inputFiles/threedee.xlsx")
     x = df['Total flight time(s)']
     y = df['Total Flight Time (m)']
     z = df['Voltage Drop']
